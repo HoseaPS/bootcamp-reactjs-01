@@ -1,6 +1,8 @@
 import React, { Component, Fragment } from "react";
 import { render } from "react-dom";
 
+import "./style.scss";
+
 class Button extends Component {
   render() {
     return <a href="">Salvar</a>;
